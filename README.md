@@ -1,5 +1,5 @@
 # Clima
-###### The Weather App
+## *The Weather App*
 
 **Operating System Requirment**   : Mac OS 10.15 or Later
 
